@@ -1,4 +1,3 @@
-#Number Guessing Game Objectives:
 
 # Allow the player to submit a guess for a number between 1 and 100.
 EndGame = False
